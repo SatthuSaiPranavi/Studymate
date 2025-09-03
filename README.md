@@ -77,6 +77,10 @@ TEMPERATURE=0.5
 streamlit run app.py
 
 
-output:
-![f28f1451-edcf-44de-a79e-174e905be546](https://github.com/user-attachments/assets/0cdaaf98-1182-4704-a2f5-9f014ae6182a)
+## 🖼️ Preview
+
+Here’s how the StudyMate app looks in action:
+
+![StudyMate UI](studymate_ui.png)
+
 
