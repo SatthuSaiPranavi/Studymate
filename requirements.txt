@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+sentence_transformers
+faiss-cpu
+python-dotenv
+ibm-watsonx-ai
+fitz
