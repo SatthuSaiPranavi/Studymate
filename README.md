@@ -69,9 +69,14 @@ IBM_PROJECT_ID=your_project_id_here
 IBM_URL=https://us-south.ml.cloud.ibm.com
 WATSONX_MODEL_ID=mistralai/mixtral-8x7b-instruct-v01
 MAX_NEW_TOKENS=300
+
+
 TEMPERATURE=0.5
 
 5. Run the app
 streamlit run app.py
 
-output:<img width="1600" height="862" alt="image" src="https://github.com/user-attachments/assets/c958325e-4c9d-4992-a189-f469c999dc53" />
+
+output:
+![f28f1451-edcf-44de-a79e-174e905be546](https://github.com/user-attachments/assets/0cdaaf98-1182-4704-a2f5-9f014ae6182a)
+
